@@ -1,19 +1,19 @@
 <resources>
-    <string name="app_name">Dicoding</string>
+    <string name="app_name">Rifzki APP</string>
 
     <string name="profile">Profile</string>
 
-    <string name="my_name">Angger Pursan Pratama</string>
-    <string name="my_email">official.apursan@gmail.com</string>
+    <string name="my_name">Rifzki Adiyaksa</string>
+    <string name="my_email">cs@mail.rifzki.my.id</string>
 
-    <string name="academy_name">Nama Academy</string>
-    <string name="academy_rate">Rate Academy</string>
-    <string name="academy_detail">Detail Academy</string>
-    <string name="academy_overview">Deskripsi</string>
+    <string name="academy_name">Nama Buku</string>
+    <string name="academy_rate">Rate Gooreads</string>
+    <string name="academy_detail">Bahasa</string>
+    <string name="academy_overview">Jenis</string>
 
-    <string name="title_detail">Disusun oleh \nLevel \nTeknologi \nEstimasi \nWebsite \n \nModul </string>
-    <string name="title_about_detail">Contact Person \n  \nTwitter \nInstagram \nLinkedIn \n \nDicoding \n </string>
-    <string name="about_detail">\n \n@apursan \n@a_pursan \nhttps://www.linkedin.com/in/angger-pursan-04458714b/  \nhttps://www.dicoding.com/users/974811 </string>
+    <string name="title_detail">Penerbit \nTopik \nHalaman \nBahasa </string>
+    <string name="title_about_detail">Contact Person \n  \nTwitter \nInstagram \nLinkedIn \n \nWebsite \n </string>
+    <string name="about_detail">\n \n@rifzkiadiyaksa \n@rifzkiadiyaksa \nhttps://www.linkedin.com/in/rifzki/  \nhttps://rifzki.my.id </string>
     <string name="content_overview">Content Overview</string>
     <string name="content_detail">Content Detail</string>
 </resources>

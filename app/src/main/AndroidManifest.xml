@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.pursan.dicoding">
+    package="com.pursan.rifzki">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -11,11 +11,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".about.About">
+        <activity android:name="com.pursan.rifzki.about.About">
         </activity>
-        <activity android:name=".academy.AcademyDetail">
+        <activity android:name="com.pursan.rifzki.academy.AcademyDetail">
         </activity>
-        <activity android:name=".SplashScreenActivity"
+        <activity android:name="com.pursan.rifzki.SplashScreenActivity"
             android:theme="@style/SplashTheme"
             android:noHistory="true">
             <intent-filter>
@@ -24,7 +24,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.pursan.rifzki.MainActivity">
 
         </activity>
     </application>
